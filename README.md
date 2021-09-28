@@ -12,12 +12,15 @@
  **<a>Para utilizar o aplicativo execute os comandos abaixo:</a>**
 </p>
 <p align="left" >
-  
   * <a>yarn install</a></br>
   * <a>yarn json-server server.json -p 3333</a></br>
   * <a>yarn android</a>
 </p>
-</br>
+<p>
+ <a><strong>Login:</strong></a></br>
+   <a>Usuário: supermercado@supermercado.com.br</a></br>
+   <a>Senha: 123456</a></br>
+</p> 
 <p>
  <a><strong>Layout do aplicativo:</strong></a>
 </p> 
