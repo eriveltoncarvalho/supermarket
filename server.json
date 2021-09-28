@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Abacaxi",
+      "description": "Abacaxi pérola.",
+      "price": 4.89,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/abacaxi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Maçã",
+      "description": "Maçã vermelha importada.",
+      "price": 8.95,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/maca-vermelha-importada.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pera",
+      "description": "Pera Importada.",
+      "price": 10.79,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/pera-importa.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Uva",
+      "description": "Uva Niagara.",
+      "price": 14.79,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/uva-niagara.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Manga",
+      "description": "Manga palmer.",
+      "price": 4.45,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/manga.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Banana",
+      "description": "Banana nanica.",
+      "price": 4.45,
+      "id_category": 1,
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/banana.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Feira",
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/frutas.png"
+    },
+    {
+      "id": 2,
+      "title": "Bebidas",
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/bebidas.png"
+    },
+    {
+      "id": 3,
+      "title": "Carnes",
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/carne.png"
+    },
+    {
+      "id": 4,
+      "title": "Padaria",
+      "image_url": "https://storage.googleapis.com/supermarket_supermarket/padaria.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Erivelton",
+      "email": "t@teste.com.br",
+      "password": "123456"
+    }
+  ]
+}
